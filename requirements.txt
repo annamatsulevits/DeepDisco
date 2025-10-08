@@ -1,0 +1,6 @@
+torch
+nibabel
+monai
+PySide6
+torchio
+Pillow

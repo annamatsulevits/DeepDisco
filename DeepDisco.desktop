@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=DeepDisco
+Comment=Launch Deep-Disconnectome GUI
+Exec=sh -c 'cd "$(dirname "%k")" && ./run_app.sh'
+Icon=${PWD}/resources/icon_creation.png
+Terminal=false
+Categories=Science;Utility;
